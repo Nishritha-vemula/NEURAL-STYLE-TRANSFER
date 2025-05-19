@@ -1,12 +1,16 @@
 # NEURAL-STYLE-TRANSFER
  
-**Company:** CODTECH IT SOLUTIONS PVT. LTD.  
-**Name:** Ankur Datta  
-**Intern ID:** CT08JSJ  
-**Domain:** Artificial Intelligence  
-**Batch Duration:** January 5th, 2025 – February 5th, 2025  
-**Mentor Name:** Neela Santhosh  
+"COMPANY": CODTECH IT SOLUTIONS
 
+"NAME": NISHRITHA VEMULA
+
+"INTERN ID": CODF274
+
+"DOMAIN": ARTIFICIAL INTELLIGENCE MARKUP LANGUAGE
+
+"DURATION": 4 WEEKS
+
+"MENTOR" : NEELA SANTOSH
 ---
 
 ## Description  
@@ -22,8 +26,8 @@ This project implements a Neural Style Transfer model using TensorFlow and Keras
 ## Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/neural-style-transfer.git
-cd neural-style-transfer
+git clone https://https://github.com/Nishritha-vemula/NEURAL-STYLE-TRANSFER.git
+cd NEURAL-STYLE-TRANSFER
 ```  
 
 Install dependencies:  
@@ -40,8 +44,10 @@ streamlit run style_transfer_app.py
 Upload your content and style images through the web interface. Click the "Stylize Image" button and wait for the stylized image to be generated. Once done, you can preview and download the output image.
 
 ## Example  
-- **Content image:** A photo or image whose structure you want to preserve.  
-- **Style image:** An artistic painting or image whose style you want to apply.  
+- **Content image:** A photo or image whose structure you want to preserve.
+- 
+- **Style image:** An artistic painting or image whose style you want to apply.
+- 
 
 The output image will maintain the content’s structure while adopting the style’s textures and colors.
 
