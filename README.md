@@ -56,6 +56,7 @@ The output image will maintain the content’s structure while adopting the styl
 ## Results  
 The model produces visually appealing stylized images combining content and style. Below is an example showcasing the input content, style images, and the final output.
 
+![Image](https://github.com/user-attachments/assets/c6b5f277-c703-4289-b9c8-80dfe3edef5e)
 
 ## Future Improvements  
 - Support for higher resolution images.  
