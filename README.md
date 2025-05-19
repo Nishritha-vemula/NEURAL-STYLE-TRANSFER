@@ -11,6 +11,7 @@
 "DURATION": 4 WEEKS
 
 "MENTOR" : NEELA SANTOSH
+
 ---
 
 ## Description  
@@ -47,14 +48,14 @@ Upload your content and style images through the web interface. Click the "Styli
 - **Content image:** A photo or image whose structure you want to preserve.
 - 
 - **Style image:** An artistic painting or image whose style you want to apply.
-- 
+
+![Image](https://github.com/user-attachments/assets/1c30c630-32b8-41bb-8115-4172861cceff)
 
 The output image will maintain the content’s structure while adopting the style’s textures and colors.
 
 ## Results  
 The model produces visually appealing stylized images combining content and style. Below is an example showcasing the input content, style images, and the final output.
 
-*(Insert your screenshots in the screenshots folder and link here)*
 
 ## Future Improvements  
 - Support for higher resolution images.  
