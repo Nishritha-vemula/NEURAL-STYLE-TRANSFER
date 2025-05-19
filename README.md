@@ -54,7 +54,7 @@ Upload your content and style images through the web interface. Click the "Styli
 The output image will maintain the content’s structure while adopting the style’s textures and colors.
 
 ## Results  
-The model produces visually appealing stylized images combining content and style. Below is an example showcasing the input content, style images, and the final output.
+The model produces visually appealing stylized images combining content and style. Below is an example showcasing the  final output.
 
 ![Image](https://github.com/user-attachments/assets/c6b5f277-c703-4289-b9c8-80dfe3edef5e)
 
